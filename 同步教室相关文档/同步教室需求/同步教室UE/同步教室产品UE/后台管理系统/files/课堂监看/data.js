@@ -1,0 +1,3675 @@
+﻿$axure.loadCurrentPage({
+  "url":"课堂监看.html",
+  "generationDate":new Date(1464253336411.89),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"IsToolbarShow",
+"Level1Navagation"],
+  "page":{
+    "packageId":"c09eff8b58264e399245837a0010ab37",
+    "type":"Axure:Page",
+    "name":"课堂监看",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"209e1e756e3a4173848d560c76e8af23",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "opacity":"0",
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFFFFFFF},
+{
+                  "color":0xFFFFFFFF},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "size":{
+              "width":860,
+              "height":360},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a1fc00ee64dd4b08b699c22526c50106",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "opacity":"0",
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFFFFFFF},
+{
+                      "color":0xFFFFFFFF},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "size":{
+                  "width":860,
+                  "height":360},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"3cd3e105ab0e41d9b9eb13ee91d178ca",
+          "label":"",
+          "type":"table",
+          "styleType":"table",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":14,
+              "y":52},
+            "size":{
+              "width":830,
+              "height":330}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"325263056ab64f2d91846de11e295813",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF36B2E2},
+                "size":{
+                  "width":189,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"2ba25a5fb0bc49ee94d957101009d6b1",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF36B2E2},
+                    "size":{
+                      "width":189,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u3.png"}},
+{
+              "id":"6810ee2a1cf748c59a73e084ccc6bd49",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":0,
+                  "y":30},
+                "size":{
+                  "width":189,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"a982e9ff42fd44849083e0c0c25dc3d2",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":0,
+                      "y":30},
+                    "size":{
+                      "width":189,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u13.png",
+                "mouseOver~":"images/课堂监看/u13_mouseOver.png"}},
+{
+              "id":"e04c2553ef4c46659417a2638290cf53",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":0,
+                  "y":60},
+                "size":{
+                  "width":189,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"6f4984ea3577401a9421395038b3e366",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":0,
+                      "y":60},
+                    "size":{
+                      "width":189,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u13.png",
+                "mouseOver~":"images/课堂监看/u13_mouseOver.png"}},
+{
+              "id":"74c53f83103046569663557d7bbfc737",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF36B2E2},
+                "location":{
+                  "x":189,
+                  "y":0},
+                "size":{
+                  "width":126,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"3e11ecc64c214eefa63c8a9e9761206b",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF36B2E2},
+                    "location":{
+                      "x":189,
+                      "y":0},
+                    "size":{
+                      "width":126,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u5.png"}},
+{
+              "id":"b2f837fca780428590009d179f67d2a7",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":189,
+                  "y":30},
+                "size":{
+                  "width":126,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"b7b16153df654361ae9d2a45da4a8225",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":189,
+                      "y":30},
+                    "size":{
+                      "width":126,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u15.png",
+                "mouseOver~":"images/课堂监看/u15_mouseOver.png"}},
+{
+              "id":"c29ab93bdd3a4a87b7c44c4ccfbdae3e",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":189,
+                  "y":60},
+                "size":{
+                  "width":126,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"4addbb03a9004ec686a1f76f2871d1a2",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":189,
+                      "y":60},
+                    "size":{
+                      "width":126,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u15.png",
+                "mouseOver~":"images/课堂监看/u15_mouseOver.png"}},
+{
+              "id":"225ecd7866654e59abfa3c6705ac384b",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":0,
+                  "y":240},
+                "size":{
+                  "width":189,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"d1fec5b7b79c4245988e79620b98fe2d",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":0,
+                      "y":240},
+                    "size":{
+                      "width":189,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u13.png",
+                "mouseOver~":"images/课堂监看/u13_mouseOver.png"}},
+{
+              "id":"cd1546d1432b4114ab01f680986828ec",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":189,
+                  "y":240},
+                "size":{
+                  "width":126,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"08756a2f51504b5a8717dfcd4674405c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":189,
+                      "y":240},
+                    "size":{
+                      "width":126,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u15.png",
+                "mouseOver~":"images/课堂监看/u15_mouseOver.png"}},
+{
+              "id":"f3cd0d5514d1439c89c056822c5af793",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":0,
+                  "y":120},
+                "size":{
+                  "width":189,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"36056cd917394ba19cb11d69fadb50bc",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":0,
+                      "y":120},
+                    "size":{
+                      "width":189,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u13.png",
+                "mouseOver~":"images/课堂监看/u13_mouseOver.png"}},
+{
+              "id":"3b2f1f24e76840069b7d0e6df7600200",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":189,
+                  "y":120},
+                "size":{
+                  "width":126,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c9ef7284b0a04c29ac1b71633f7e91f3",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":189,
+                      "y":120},
+                    "size":{
+                      "width":126,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u15.png",
+                "mouseOver~":"images/课堂监看/u15_mouseOver.png"}},
+{
+              "id":"bc7ec6fbe4ee445e86272abbde94e1aa",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":0,
+                  "y":90},
+                "size":{
+                  "width":189,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"4efcef2245ed4381a3e8cdc7aff25f41",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":0,
+                      "y":90},
+                    "size":{
+                      "width":189,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u13.png",
+                "mouseOver~":"images/课堂监看/u13_mouseOver.png"}},
+{
+              "id":"ee3e13a8cf4b431dba7c30103aa3ef77",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":189,
+                  "y":90},
+                "size":{
+                  "width":126,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"5f911423cb204aebb567cd126500d795",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":189,
+                      "y":90},
+                    "size":{
+                      "width":126,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u15.png",
+                "mouseOver~":"images/课堂监看/u15_mouseOver.png"}},
+{
+              "id":"94e0a4b71e7044aab90f34eb1367039d",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":0,
+                  "y":180},
+                "size":{
+                  "width":189,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"4c1e84350e8246d696ee1f206017a230",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":0,
+                      "y":180},
+                    "size":{
+                      "width":189,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u13.png",
+                "mouseOver~":"images/课堂监看/u13_mouseOver.png"}},
+{
+              "id":"687defa956444a63a4840803bfc7e68d",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":189,
+                  "y":180},
+                "size":{
+                  "width":126,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"296253a3a2e74cc08d599d16de000dee",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":189,
+                      "y":180},
+                    "size":{
+                      "width":126,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u15.png",
+                "mouseOver~":"images/课堂监看/u15_mouseOver.png"}},
+{
+              "id":"17013ae6e4d24a51ab2e224954757496",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":0,
+                  "y":150},
+                "size":{
+                  "width":189,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"6d6ced592ad44b229dcbbcd1498a1108",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":0,
+                      "y":150},
+                    "size":{
+                      "width":189,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u13.png",
+                "mouseOver~":"images/课堂监看/u13_mouseOver.png"}},
+{
+              "id":"47ae4ee5e58949e1a18d82e061f1e917",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":189,
+                  "y":150},
+                "size":{
+                  "width":126,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"d0fc7dc71f0444f0a7fe21334757679b",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":189,
+                      "y":150},
+                    "size":{
+                      "width":126,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u15.png",
+                "mouseOver~":"images/课堂监看/u15_mouseOver.png"}},
+{
+              "id":"751ab67a3e6c481f8c9de6bbd0bfeb3f",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":0,
+                  "y":210},
+                "size":{
+                  "width":189,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"54aa45e3f4414dc59aa06c096b973d10",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":0,
+                      "y":210},
+                    "size":{
+                      "width":189,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u13.png",
+                "mouseOver~":"images/课堂监看/u13_mouseOver.png"}},
+{
+              "id":"80a38cba095a4ac69ffb1b6b12753286",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":189,
+                  "y":210},
+                "size":{
+                  "width":126,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"68074f3a268f4d28bc3c162d2632e1e5",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":189,
+                      "y":210},
+                    "size":{
+                      "width":126,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u15.png",
+                "mouseOver~":"images/课堂监看/u15_mouseOver.png"}},
+{
+              "id":"2cd7ba0527fa4c07b9f1ae8c5070ef01",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF36B2E2},
+                "location":{
+                  "x":315,
+                  "y":0},
+                "size":{
+                  "width":128,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"e3279a90158447eeb43adaca65811e41",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF36B2E2},
+                    "location":{
+                      "x":315,
+                      "y":0},
+                    "size":{
+                      "width":128,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u7.png"}},
+{
+              "id":"cdb0a2d329144fcf944a6b69fdeeb99b",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":315,
+                  "y":30},
+                "size":{
+                  "width":128,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"a36ea5f82ed24030aae822f9a93905d9",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":315,
+                      "y":30},
+                    "size":{
+                      "width":128,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u17.png",
+                "mouseOver~":"images/课堂监看/u17_mouseOver.png"}},
+{
+              "id":"6aa84256c92048e490049ba55bbe1340",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":315,
+                  "y":60},
+                "size":{
+                  "width":128,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"5b5fcbbfb2b440cb98a3675a0d87bb80",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":315,
+                      "y":60},
+                    "size":{
+                      "width":128,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u17.png",
+                "mouseOver~":"images/课堂监看/u17_mouseOver.png"}},
+{
+              "id":"134487eabd754d1c9a7eb53bf0c0d313",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":315,
+                  "y":90},
+                "size":{
+                  "width":128,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"ae6bb104fa294eb3be88a91381036ac8",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":315,
+                      "y":90},
+                    "size":{
+                      "width":128,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u17.png",
+                "mouseOver~":"images/课堂监看/u17_mouseOver.png"}},
+{
+              "id":"16885cb8ac5d4374a014ef4e6934b16d",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":315,
+                  "y":120},
+                "size":{
+                  "width":128,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"d42d79fd9ff044e79edde12699c8f6fd",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":315,
+                      "y":120},
+                    "size":{
+                      "width":128,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u17.png",
+                "mouseOver~":"images/课堂监看/u17_mouseOver.png"}},
+{
+              "id":"1550452c8ec243fc9c096d7d91f09151",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":315,
+                  "y":150},
+                "size":{
+                  "width":128,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"5253b9fd35eb4d23a2d727a7e39ccb5d",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":315,
+                      "y":150},
+                    "size":{
+                      "width":128,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u17.png",
+                "mouseOver~":"images/课堂监看/u17_mouseOver.png"}},
+{
+              "id":"538be3a0662446ce8697cbd110c79047",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":315,
+                  "y":180},
+                "size":{
+                  "width":128,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"a0d7e465b97d4a23924762d75cd82204",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":315,
+                      "y":180},
+                    "size":{
+                      "width":128,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u17.png",
+                "mouseOver~":"images/课堂监看/u17_mouseOver.png"}},
+{
+              "id":"240878366cbb496586ea89537b460e0e",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":315,
+                  "y":210},
+                "size":{
+                  "width":128,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"52fa2bb7b78c4813a13bdb090b1af1df",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":315,
+                      "y":210},
+                    "size":{
+                      "width":128,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u17.png",
+                "mouseOver~":"images/课堂监看/u17_mouseOver.png"}},
+{
+              "id":"190fbef01af5416bb70a409574240220",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":315,
+                  "y":240},
+                "size":{
+                  "width":128,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"5b804923d70f4eca996dd585175153ad",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":315,
+                      "y":240},
+                    "size":{
+                      "width":128,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u17.png",
+                "mouseOver~":"images/课堂监看/u17_mouseOver.png"}},
+{
+              "id":"6ec1ce6b36ef4136b69196321bc9e05a",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF36B2E2},
+                "location":{
+                  "x":609,
+                  "y":0},
+                "size":{
+                  "width":221,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"350a0823852f4f02bd9a28c4906e0c6e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF36B2E2},
+                    "location":{
+                      "x":609,
+                      "y":0},
+                    "size":{
+                      "width":221,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u11.png"}},
+{
+              "id":"6660787475f349eaae710f412808ff1c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":609,
+                  "y":30},
+                "size":{
+                  "width":221,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"b55c5f52f3244ff98ec63ff9d01c5443",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":609,
+                      "y":30},
+                    "size":{
+                      "width":221,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"09284db26b05445a8fcd1aecc3e56923",
+                      "label":"",
+                      "type":"hyperlink",
+                      "styleType":"hyperlink",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'"},
+                      "adaptiveStyles":{
+}}]}],
+              "interactionMap":{
+                "onClick":{
+                  "description":"OnClick",
+                  "cases":[{
+                      "description":"Case 1",
+                      "isNewIfGroup":false,
+                      "actions":[{
+                          "action":"linkWindow",
+                          "description":"在 当前窗口 打开 课堂实时直播",
+                          "target":{
+                            "targetType":"page",
+                            "url":"课堂实时直播.html",
+                            "includeVariables":true},
+                          "linkType":"current"}]}]}},
+              "tabbable":true,
+              "images":{
+                "normal~":"images/课堂监看/u21.png",
+                "mouseOver~":"images/课堂监看/u21_mouseOver.png"}},
+{
+              "id":"2ab7912e560d4ee6b83c2d2eab0a9b8d",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":609,
+                  "y":60},
+                "size":{
+                  "width":221,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c295a484b8f94085a7cbf3a04a82c044",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":609,
+                      "y":60},
+                    "size":{
+                      "width":221,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c8f92aabf2b3476984bb253410b18343",
+                      "label":"",
+                      "type":"hyperlink",
+                      "styleType":"hyperlink",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'"},
+                      "adaptiveStyles":{
+}}]}],
+              "interactionMap":{
+                "onClick":{
+                  "description":"OnClick",
+                  "cases":[{
+                      "description":"Case 1",
+                      "isNewIfGroup":false,
+                      "actions":[{
+                          "action":"linkWindow",
+                          "description":"在 当前窗口 打开 课堂实时直播",
+                          "target":{
+                            "targetType":"page",
+                            "url":"课堂实时直播.html",
+                            "includeVariables":true},
+                          "linkType":"current"}]}]}},
+              "tabbable":true,
+              "images":{
+                "normal~":"images/课堂监看/u21.png",
+                "mouseOver~":"images/课堂监看/u21_mouseOver.png"}},
+{
+              "id":"3c8a0a815c50434faebc91f35742b888",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":609,
+                  "y":90},
+                "size":{
+                  "width":221,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"2770f609448c4a0ea8c507872a12d76a",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":609,
+                      "y":90},
+                    "size":{
+                      "width":221,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"a5ab805a40ac46c58dab4d7abb9f6dbf",
+                      "label":"",
+                      "type":"hyperlink",
+                      "styleType":"hyperlink",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'"},
+                      "adaptiveStyles":{
+}}]}],
+              "interactionMap":{
+                "onClick":{
+                  "description":"OnClick",
+                  "cases":[{
+                      "description":"Case 1",
+                      "isNewIfGroup":false,
+                      "actions":[{
+                          "action":"linkWindow",
+                          "description":"在 当前窗口 打开 课堂实时直播",
+                          "target":{
+                            "targetType":"page",
+                            "url":"课堂实时直播.html",
+                            "includeVariables":true},
+                          "linkType":"current"}]}]}},
+              "tabbable":true,
+              "images":{
+                "normal~":"images/课堂监看/u21.png",
+                "mouseOver~":"images/课堂监看/u21_mouseOver.png"}},
+{
+              "id":"7112baaee98f4dbf8f60d8e5a68f2a2c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":609,
+                  "y":120},
+                "size":{
+                  "width":221,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"8c924ea07e2442dca0278e29d0fc7318",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":609,
+                      "y":120},
+                    "size":{
+                      "width":221,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"4cba86baf1984cbbbc70e4971a10023b",
+                      "label":"",
+                      "type":"hyperlink",
+                      "styleType":"hyperlink",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'"},
+                      "adaptiveStyles":{
+}}]}],
+              "images":{
+                "normal~":"images/课堂监看/u21.png",
+                "mouseOver~":"images/课堂监看/u21_mouseOver.png"}},
+{
+              "id":"40a21ab6843e4e57adf2aa04488a50ed",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":609,
+                  "y":150},
+                "size":{
+                  "width":221,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"599e3e9eccf54c649e9a0ebcaaf88dd5",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":609,
+                      "y":150},
+                    "size":{
+                      "width":221,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"cd50dce928c24780a65af270a917b87e",
+                      "label":"",
+                      "type":"hyperlink",
+                      "styleType":"hyperlink",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'"},
+                      "adaptiveStyles":{
+}}]}],
+              "images":{
+                "normal~":"images/课堂监看/u21.png",
+                "mouseOver~":"images/课堂监看/u21_mouseOver.png"}},
+{
+              "id":"5446d850899f4ba1abe9feb5d5f39965",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":609,
+                  "y":180},
+                "size":{
+                  "width":221,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"0ccb086aa5da46bfb1f773cfd2041b89",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":609,
+                      "y":180},
+                    "size":{
+                      "width":221,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"e94f2ef226734f89acbdf8824ea27873",
+                      "label":"",
+                      "type":"hyperlink",
+                      "styleType":"hyperlink",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'"},
+                      "adaptiveStyles":{
+}}]}],
+              "images":{
+                "normal~":"images/课堂监看/u21.png",
+                "mouseOver~":"images/课堂监看/u21_mouseOver.png"}},
+{
+              "id":"3f706dc23cec449ca4fbb4d1d7a15189",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":609,
+                  "y":210},
+                "size":{
+                  "width":221,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"4089ce9b1c3d41459b3434509257a8b7",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":609,
+                      "y":210},
+                    "size":{
+                      "width":221,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"7aaf58b2c6824bafb1c7965b21c7e6fb",
+                      "label":"",
+                      "type":"hyperlink",
+                      "styleType":"hyperlink",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'"},
+                      "adaptiveStyles":{
+}}]}],
+              "images":{
+                "normal~":"images/课堂监看/u21.png",
+                "mouseOver~":"images/课堂监看/u21_mouseOver.png"}},
+{
+              "id":"4c2207a9c30a4074bff561d1a391d4f7",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":609,
+                  "y":240},
+                "size":{
+                  "width":221,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"2c75ad7d8d6f45e59198e07182452524",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":609,
+                      "y":240},
+                    "size":{
+                      "width":221,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"7f39537e1def44afbdad917d4f1582de",
+                      "label":"",
+                      "type":"hyperlink",
+                      "styleType":"hyperlink",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'"},
+                      "adaptiveStyles":{
+}}]}],
+              "images":{
+                "normal~":"images/课堂监看/u21.png",
+                "mouseOver~":"images/课堂监看/u21_mouseOver.png"}},
+{
+              "id":"20a5b715097340779fc7defe2db25912",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":0,
+                  "y":300},
+                "size":{
+                  "width":189,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"901daef7c16b4dac9a99a83295405f49",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":0,
+                      "y":300},
+                    "size":{
+                      "width":189,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u112.png",
+                "mouseOver~":"images/课堂监看/u112_mouseOver.png"}},
+{
+              "id":"25efb2305e434a6a9a1078d58b6dbdfb",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":189,
+                  "y":300},
+                "size":{
+                  "width":126,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"74825769cb9e47959fb5544c3dba548b",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":189,
+                      "y":300},
+                    "size":{
+                      "width":126,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u114.png",
+                "mouseOver~":"images/课堂监看/u114_mouseOver.png"}},
+{
+              "id":"b1caba4e69934e9ab054260aa1700b91",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":315,
+                  "y":300},
+                "size":{
+                  "width":128,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"f08e8f56a799485d8324a1f9e495f689",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":315,
+                      "y":300},
+                    "size":{
+                      "width":128,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u116.png",
+                "mouseOver~":"images/课堂监看/u116_mouseOver.png"}},
+{
+              "id":"b2349d992a844786a5933fe1097dce55",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":609,
+                  "y":300},
+                "size":{
+                  "width":221,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"0c8d2a6c2d7546a199ea4c09c1b2c9a7",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":609,
+                      "y":300},
+                    "size":{
+                      "width":221,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"888c77bd24084821bc1dad99c291aab3",
+                      "label":"",
+                      "type":"hyperlink",
+                      "styleType":"hyperlink",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'"},
+                      "adaptiveStyles":{
+}}]}],
+              "images":{
+                "normal~":"images/课堂监看/u120.png",
+                "mouseOver~":"images/课堂监看/u120_mouseOver.png"}},
+{
+              "id":"83f300d2c77d48cda6d57675084c0123",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":0,
+                  "y":270},
+                "size":{
+                  "width":189,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"59687fc29bb54f719a3bed71c13cd2a4",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":0,
+                      "y":270},
+                    "size":{
+                      "width":189,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u13.png",
+                "mouseOver~":"images/课堂监看/u13_mouseOver.png"}},
+{
+              "id":"85cb2a9e166444d0a18f2cca116a1a7a",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":189,
+                  "y":270},
+                "size":{
+                  "width":126,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"d96ee6b74d41446b91fa1e09d06ebdf8",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":189,
+                      "y":270},
+                    "size":{
+                      "width":126,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u15.png",
+                "mouseOver~":"images/课堂监看/u15_mouseOver.png"}},
+{
+              "id":"6b9e60964d6d41cca9b002d5f1be3d14",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":315,
+                  "y":270},
+                "size":{
+                  "width":128,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"341274d801a14dc4a28fb58f0da54448",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":315,
+                      "y":270},
+                    "size":{
+                      "width":128,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u17.png",
+                "mouseOver~":"images/课堂监看/u17_mouseOver.png"}},
+{
+              "id":"5f641be2eba14c9c8c29cb4b4e8c23b9",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":609,
+                  "y":270},
+                "size":{
+                  "width":221,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"4a7eab0e30014925983da2bfd963cc09",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":609,
+                      "y":270},
+                    "size":{
+                      "width":221,
+                      "height":30}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"02642e79b3f94d2dbe3938729bec14c9",
+                      "label":"",
+                      "type":"hyperlink",
+                      "styleType":"hyperlink",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'"},
+                      "adaptiveStyles":{
+}}]}],
+              "images":{
+                "normal~":"images/课堂监看/u21.png",
+                "mouseOver~":"images/课堂监看/u21_mouseOver.png"}},
+{
+              "id":"061d62273cc94ae59098eb5f53469b8b",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF36B2E2},
+                "location":{
+                  "x":443,
+                  "y":0},
+                "size":{
+                  "width":166,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"eff377d53cbf41b7a963ba0dc9781dff",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF36B2E2},
+                    "location":{
+                      "x":443,
+                      "y":0},
+                    "size":{
+                      "width":166,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u9.png"}},
+{
+              "id":"060a6e931db5419284929ecc596d4485",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":443,
+                  "y":30},
+                "size":{
+                  "width":166,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"6f663d3ae645456dbf189e8c81d82d27",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":443,
+                      "y":30},
+                    "size":{
+                      "width":166,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u19.png",
+                "mouseOver~":"images/课堂监看/u19_mouseOver.png"}},
+{
+              "id":"d83ce4e481004defaa421facabe80e90",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":443,
+                  "y":60},
+                "size":{
+                  "width":166,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"fa13248f4ff34e9fa072c26756d5c102",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":443,
+                      "y":60},
+                    "size":{
+                      "width":166,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u19.png",
+                "mouseOver~":"images/课堂监看/u19_mouseOver.png"}},
+{
+              "id":"647c3f4707e740b2b50664f604e4fe98",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":443,
+                  "y":90},
+                "size":{
+                  "width":166,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"ba510758a7ca453f84c9a59e910f0436",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":443,
+                      "y":90},
+                    "size":{
+                      "width":166,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u19.png",
+                "mouseOver~":"images/课堂监看/u19_mouseOver.png"}},
+{
+              "id":"2d034b7831854b5b8e921f5c1e13cecd",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":443,
+                  "y":120},
+                "size":{
+                  "width":166,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"dae08556cb174dcbac723cce5b2a4b13",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":443,
+                      "y":120},
+                    "size":{
+                      "width":166,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u19.png",
+                "mouseOver~":"images/课堂监看/u19_mouseOver.png"}},
+{
+              "id":"71575f0d988548b2bc5e32f41f16cc4b",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":443,
+                  "y":150},
+                "size":{
+                  "width":166,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"7be92f59cf8e40a6a5bdff4ccab53e51",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":443,
+                      "y":150},
+                    "size":{
+                      "width":166,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u19.png",
+                "mouseOver~":"images/课堂监看/u19_mouseOver.png"}},
+{
+              "id":"0f1e2638cfee463e8a7e8b009f56dbcd",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":443,
+                  "y":180},
+                "size":{
+                  "width":166,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"63a4719d452940f093df9f40fcc30348",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":443,
+                      "y":180},
+                    "size":{
+                      "width":166,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u19.png",
+                "mouseOver~":"images/课堂监看/u19_mouseOver.png"}},
+{
+              "id":"5eee7979035245929c5b7571914bf5b1",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":443,
+                  "y":210},
+                "size":{
+                  "width":166,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"f6fdb3fab0054970aa4ba58b21c77e5c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":443,
+                      "y":210},
+                    "size":{
+                      "width":166,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u19.png",
+                "mouseOver~":"images/课堂监看/u19_mouseOver.png"}},
+{
+              "id":"9f167351ec6a44429f79fd7f1cd5f4e0",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":443,
+                  "y":240},
+                "size":{
+                  "width":166,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"070c9ca70e7c4a3c86c14747e75a514b",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":443,
+                      "y":240},
+                    "size":{
+                      "width":166,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u19.png",
+                "mouseOver~":"images/课堂监看/u19_mouseOver.png"}},
+{
+              "id":"213a33bc13eb4a9e80d687173684cb14",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":443,
+                  "y":270},
+                "size":{
+                  "width":166,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"834c5b7ad7c4464d9f0e7d8670a93c30",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":443,
+                      "y":270},
+                    "size":{
+                      "width":166,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u19.png",
+                "mouseOver~":"images/课堂监看/u19_mouseOver.png"}},
+{
+              "id":"61aa76cfe0594b169300073474e13f57",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC}}},
+                "location":{
+                  "x":443,
+                  "y":300},
+                "size":{
+                  "width":166,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"e86c86253b834b849b6a9ec94dbd1f03",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFCCCCCC}}},
+                    "location":{
+                      "x":443,
+                      "y":300},
+                    "size":{
+                      "width":166,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/课堂监看/u118.png",
+                "mouseOver~":"images/课堂监看/u118_mouseOver.png"}}]},
+{
+          "id":"f24234cd788043299acac4e3a5c2a7b9",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":545,
+              "y":392},
+            "size":{
+              "width":299,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"83c5a21262ce4249bb813ab630023200",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":545,
+                  "y":392},
+                "size":{
+                  "width":299,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/课表管理/u154.png"}},
+{
+          "id":"379062632ce64a43b57ac18cbc5c2d59",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontWeight":"700",
+            "location":{
+              "x":19,
+              "y":17},
+            "size":{
+              "width":155,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b988067f7d364c99b622ef6ad064d192",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontWeight":"700",
+                "location":{
+                  "x":19,
+                  "y":17},
+                "size":{
+                  "width":155,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"348319ef52c640a895a5acd698f4d1a0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":404,
+              "y":15},
+            "size":{
+              "width":57,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3d056c89ad774a94a3b40fee47d05b74",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":404,
+                  "y":15},
+                "size":{
+                  "width":57,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"6474a53d98b44436a332bfdaababd907",
+          "label":"",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000,
+              "opacity":1},
+            "location":{
+              "x":664,
+              "y":15},
+            "size":{
+              "width":83,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"a04e9bd09603478494e52ef9a5bf2cf1",
+          "label":"",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":571,
+              "y":15},
+            "size":{
+              "width":83,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"b2309ffddafc419eb8fc466fac7cacc0",
+          "label":"",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":471,
+              "y":15},
+            "size":{
+              "width":83,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"6a72546f014947d2be4f35843eb388be",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"14px",
+            "location":{
+              "x":757,
+              "y":11},
+            "size":{
+              "width":87,
+              "height":30}},
+          "adaptiveStyles":{
+}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "209e1e756e3a4173848d560c76e8af23":{
+      "scriptId":"u0"},
+    "a1fc00ee64dd4b08b699c22526c50106":{
+      "scriptId":"u1"},
+    "3cd3e105ab0e41d9b9eb13ee91d178ca":{
+      "scriptId":"u2"},
+    "325263056ab64f2d91846de11e295813":{
+      "scriptId":"u3"},
+    "2ba25a5fb0bc49ee94d957101009d6b1":{
+      "scriptId":"u4"},
+    "74c53f83103046569663557d7bbfc737":{
+      "scriptId":"u5"},
+    "3e11ecc64c214eefa63c8a9e9761206b":{
+      "scriptId":"u6"},
+    "2cd7ba0527fa4c07b9f1ae8c5070ef01":{
+      "scriptId":"u7"},
+    "e3279a90158447eeb43adaca65811e41":{
+      "scriptId":"u8"},
+    "061d62273cc94ae59098eb5f53469b8b":{
+      "scriptId":"u9"},
+    "eff377d53cbf41b7a963ba0dc9781dff":{
+      "scriptId":"u10"},
+    "6ec1ce6b36ef4136b69196321bc9e05a":{
+      "scriptId":"u11"},
+    "350a0823852f4f02bd9a28c4906e0c6e":{
+      "scriptId":"u12"},
+    "6810ee2a1cf748c59a73e084ccc6bd49":{
+      "scriptId":"u13"},
+    "a982e9ff42fd44849083e0c0c25dc3d2":{
+      "scriptId":"u14"},
+    "b2f837fca780428590009d179f67d2a7":{
+      "scriptId":"u15"},
+    "b7b16153df654361ae9d2a45da4a8225":{
+      "scriptId":"u16"},
+    "cdb0a2d329144fcf944a6b69fdeeb99b":{
+      "scriptId":"u17"},
+    "a36ea5f82ed24030aae822f9a93905d9":{
+      "scriptId":"u18"},
+    "060a6e931db5419284929ecc596d4485":{
+      "scriptId":"u19"},
+    "6f663d3ae645456dbf189e8c81d82d27":{
+      "scriptId":"u20"},
+    "6660787475f349eaae710f412808ff1c":{
+      "scriptId":"u21"},
+    "b55c5f52f3244ff98ec63ff9d01c5443":{
+      "scriptId":"u22"},
+    "09284db26b05445a8fcd1aecc3e56923":{
+      "scriptId":"u23"},
+    "e04c2553ef4c46659417a2638290cf53":{
+      "scriptId":"u24"},
+    "6f4984ea3577401a9421395038b3e366":{
+      "scriptId":"u25"},
+    "c29ab93bdd3a4a87b7c44c4ccfbdae3e":{
+      "scriptId":"u26"},
+    "4addbb03a9004ec686a1f76f2871d1a2":{
+      "scriptId":"u27"},
+    "6aa84256c92048e490049ba55bbe1340":{
+      "scriptId":"u28"},
+    "5b5fcbbfb2b440cb98a3675a0d87bb80":{
+      "scriptId":"u29"},
+    "d83ce4e481004defaa421facabe80e90":{
+      "scriptId":"u30"},
+    "fa13248f4ff34e9fa072c26756d5c102":{
+      "scriptId":"u31"},
+    "2ab7912e560d4ee6b83c2d2eab0a9b8d":{
+      "scriptId":"u32"},
+    "c295a484b8f94085a7cbf3a04a82c044":{
+      "scriptId":"u33"},
+    "c8f92aabf2b3476984bb253410b18343":{
+      "scriptId":"u34"},
+    "bc7ec6fbe4ee445e86272abbde94e1aa":{
+      "scriptId":"u35"},
+    "4efcef2245ed4381a3e8cdc7aff25f41":{
+      "scriptId":"u36"},
+    "ee3e13a8cf4b431dba7c30103aa3ef77":{
+      "scriptId":"u37"},
+    "5f911423cb204aebb567cd126500d795":{
+      "scriptId":"u38"},
+    "134487eabd754d1c9a7eb53bf0c0d313":{
+      "scriptId":"u39"},
+    "ae6bb104fa294eb3be88a91381036ac8":{
+      "scriptId":"u40"},
+    "647c3f4707e740b2b50664f604e4fe98":{
+      "scriptId":"u41"},
+    "ba510758a7ca453f84c9a59e910f0436":{
+      "scriptId":"u42"},
+    "3c8a0a815c50434faebc91f35742b888":{
+      "scriptId":"u43"},
+    "2770f609448c4a0ea8c507872a12d76a":{
+      "scriptId":"u44"},
+    "a5ab805a40ac46c58dab4d7abb9f6dbf":{
+      "scriptId":"u45"},
+    "f3cd0d5514d1439c89c056822c5af793":{
+      "scriptId":"u46"},
+    "36056cd917394ba19cb11d69fadb50bc":{
+      "scriptId":"u47"},
+    "3b2f1f24e76840069b7d0e6df7600200":{
+      "scriptId":"u48"},
+    "c9ef7284b0a04c29ac1b71633f7e91f3":{
+      "scriptId":"u49"},
+    "16885cb8ac5d4374a014ef4e6934b16d":{
+      "scriptId":"u50"},
+    "d42d79fd9ff044e79edde12699c8f6fd":{
+      "scriptId":"u51"},
+    "2d034b7831854b5b8e921f5c1e13cecd":{
+      "scriptId":"u52"},
+    "dae08556cb174dcbac723cce5b2a4b13":{
+      "scriptId":"u53"},
+    "7112baaee98f4dbf8f60d8e5a68f2a2c":{
+      "scriptId":"u54"},
+    "8c924ea07e2442dca0278e29d0fc7318":{
+      "scriptId":"u55"},
+    "4cba86baf1984cbbbc70e4971a10023b":{
+      "scriptId":"u56"},
+    "17013ae6e4d24a51ab2e224954757496":{
+      "scriptId":"u57"},
+    "6d6ced592ad44b229dcbbcd1498a1108":{
+      "scriptId":"u58"},
+    "47ae4ee5e58949e1a18d82e061f1e917":{
+      "scriptId":"u59"},
+    "d0fc7dc71f0444f0a7fe21334757679b":{
+      "scriptId":"u60"},
+    "1550452c8ec243fc9c096d7d91f09151":{
+      "scriptId":"u61"},
+    "5253b9fd35eb4d23a2d727a7e39ccb5d":{
+      "scriptId":"u62"},
+    "71575f0d988548b2bc5e32f41f16cc4b":{
+      "scriptId":"u63"},
+    "7be92f59cf8e40a6a5bdff4ccab53e51":{
+      "scriptId":"u64"},
+    "40a21ab6843e4e57adf2aa04488a50ed":{
+      "scriptId":"u65"},
+    "599e3e9eccf54c649e9a0ebcaaf88dd5":{
+      "scriptId":"u66"},
+    "cd50dce928c24780a65af270a917b87e":{
+      "scriptId":"u67"},
+    "94e0a4b71e7044aab90f34eb1367039d":{
+      "scriptId":"u68"},
+    "4c1e84350e8246d696ee1f206017a230":{
+      "scriptId":"u69"},
+    "687defa956444a63a4840803bfc7e68d":{
+      "scriptId":"u70"},
+    "296253a3a2e74cc08d599d16de000dee":{
+      "scriptId":"u71"},
+    "538be3a0662446ce8697cbd110c79047":{
+      "scriptId":"u72"},
+    "a0d7e465b97d4a23924762d75cd82204":{
+      "scriptId":"u73"},
+    "0f1e2638cfee463e8a7e8b009f56dbcd":{
+      "scriptId":"u74"},
+    "63a4719d452940f093df9f40fcc30348":{
+      "scriptId":"u75"},
+    "5446d850899f4ba1abe9feb5d5f39965":{
+      "scriptId":"u76"},
+    "0ccb086aa5da46bfb1f773cfd2041b89":{
+      "scriptId":"u77"},
+    "e94f2ef226734f89acbdf8824ea27873":{
+      "scriptId":"u78"},
+    "751ab67a3e6c481f8c9de6bbd0bfeb3f":{
+      "scriptId":"u79"},
+    "54aa45e3f4414dc59aa06c096b973d10":{
+      "scriptId":"u80"},
+    "80a38cba095a4ac69ffb1b6b12753286":{
+      "scriptId":"u81"},
+    "68074f3a268f4d28bc3c162d2632e1e5":{
+      "scriptId":"u82"},
+    "240878366cbb496586ea89537b460e0e":{
+      "scriptId":"u83"},
+    "52fa2bb7b78c4813a13bdb090b1af1df":{
+      "scriptId":"u84"},
+    "5eee7979035245929c5b7571914bf5b1":{
+      "scriptId":"u85"},
+    "f6fdb3fab0054970aa4ba58b21c77e5c":{
+      "scriptId":"u86"},
+    "3f706dc23cec449ca4fbb4d1d7a15189":{
+      "scriptId":"u87"},
+    "4089ce9b1c3d41459b3434509257a8b7":{
+      "scriptId":"u88"},
+    "7aaf58b2c6824bafb1c7965b21c7e6fb":{
+      "scriptId":"u89"},
+    "225ecd7866654e59abfa3c6705ac384b":{
+      "scriptId":"u90"},
+    "d1fec5b7b79c4245988e79620b98fe2d":{
+      "scriptId":"u91"},
+    "cd1546d1432b4114ab01f680986828ec":{
+      "scriptId":"u92"},
+    "08756a2f51504b5a8717dfcd4674405c":{
+      "scriptId":"u93"},
+    "190fbef01af5416bb70a409574240220":{
+      "scriptId":"u94"},
+    "5b804923d70f4eca996dd585175153ad":{
+      "scriptId":"u95"},
+    "9f167351ec6a44429f79fd7f1cd5f4e0":{
+      "scriptId":"u96"},
+    "070c9ca70e7c4a3c86c14747e75a514b":{
+      "scriptId":"u97"},
+    "4c2207a9c30a4074bff561d1a391d4f7":{
+      "scriptId":"u98"},
+    "2c75ad7d8d6f45e59198e07182452524":{
+      "scriptId":"u99"},
+    "7f39537e1def44afbdad917d4f1582de":{
+      "scriptId":"u100"},
+    "83f300d2c77d48cda6d57675084c0123":{
+      "scriptId":"u101"},
+    "59687fc29bb54f719a3bed71c13cd2a4":{
+      "scriptId":"u102"},
+    "85cb2a9e166444d0a18f2cca116a1a7a":{
+      "scriptId":"u103"},
+    "d96ee6b74d41446b91fa1e09d06ebdf8":{
+      "scriptId":"u104"},
+    "6b9e60964d6d41cca9b002d5f1be3d14":{
+      "scriptId":"u105"},
+    "341274d801a14dc4a28fb58f0da54448":{
+      "scriptId":"u106"},
+    "213a33bc13eb4a9e80d687173684cb14":{
+      "scriptId":"u107"},
+    "834c5b7ad7c4464d9f0e7d8670a93c30":{
+      "scriptId":"u108"},
+    "5f641be2eba14c9c8c29cb4b4e8c23b9":{
+      "scriptId":"u109"},
+    "4a7eab0e30014925983da2bfd963cc09":{
+      "scriptId":"u110"},
+    "02642e79b3f94d2dbe3938729bec14c9":{
+      "scriptId":"u111"},
+    "20a5b715097340779fc7defe2db25912":{
+      "scriptId":"u112"},
+    "901daef7c16b4dac9a99a83295405f49":{
+      "scriptId":"u113"},
+    "25efb2305e434a6a9a1078d58b6dbdfb":{
+      "scriptId":"u114"},
+    "74825769cb9e47959fb5544c3dba548b":{
+      "scriptId":"u115"},
+    "b1caba4e69934e9ab054260aa1700b91":{
+      "scriptId":"u116"},
+    "f08e8f56a799485d8324a1f9e495f689":{
+      "scriptId":"u117"},
+    "61aa76cfe0594b169300073474e13f57":{
+      "scriptId":"u118"},
+    "e86c86253b834b849b6a9ec94dbd1f03":{
+      "scriptId":"u119"},
+    "b2349d992a844786a5933fe1097dce55":{
+      "scriptId":"u120"},
+    "0c8d2a6c2d7546a199ea4c09c1b2c9a7":{
+      "scriptId":"u121"},
+    "888c77bd24084821bc1dad99c291aab3":{
+      "scriptId":"u122"},
+    "f24234cd788043299acac4e3a5c2a7b9":{
+      "scriptId":"u123"},
+    "83c5a21262ce4249bb813ab630023200":{
+      "scriptId":"u124"},
+    "379062632ce64a43b57ac18cbc5c2d59":{
+      "scriptId":"u125"},
+    "b988067f7d364c99b622ef6ad064d192":{
+      "scriptId":"u126"},
+    "348319ef52c640a895a5acd698f4d1a0":{
+      "scriptId":"u127"},
+    "3d056c89ad774a94a3b40fee47d05b74":{
+      "scriptId":"u128"},
+    "6474a53d98b44436a332bfdaababd907":{
+      "scriptId":"u129"},
+    "a04e9bd09603478494e52ef9a5bf2cf1":{
+      "scriptId":"u130"},
+    "b2309ffddafc419eb8fc466fac7cacc0":{
+      "scriptId":"u131"},
+    "6a72546f014947d2be4f35843eb388be":{
+      "scriptId":"u132"}}});
